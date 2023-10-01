@@ -5,3 +5,6 @@ Midpoint.py finds the midport between two coordinates in the cartesian plane.
 
 # Distance.py
 Distance.py finds the distance between two coordinates in the cartesian plane.
+
+# linear_equation.py
+linear_equation.py calculates y depending on what x is for multiple values.
