@@ -11,4 +11,4 @@ Distance.py finds the distance between two coordinates in the cartesian plane.
 linear_equation.py calculates y depending on what x is for multiple values.
 
 # quadradic_equation.py
-line linear_equation.py but quadradic
+like linear_equation.py but quadradic
