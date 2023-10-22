@@ -1,5 +1,8 @@
 import matplotlib.pylot as plt
 
+x_axis = []
+y_axis = []
+
 def quadradic():
     a = int(input("Enter a quadradic equation in the format [y=a𝑥^2+bx+c]\na: "))
     b = int(input("b: "))
