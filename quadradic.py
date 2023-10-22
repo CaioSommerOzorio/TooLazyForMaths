@@ -1,3 +1,5 @@
+import matplotlib.pylot as plt
+
 def quadradic():
     a = int(input("Enter a quadradic equation in the format [y=a𝑥^2+bx+c]\na: "))
     b = int(input("b: "))
@@ -8,4 +10,12 @@ def quadradic():
         y = a*i**2+b*i+c
         x_axis.append(i)
         y_axis.append(y)
-        return x_axis, y_axis
+
+quadradic()
+
+print(f"x axis: {x_axis}\ny axis: {y_axis}")
+plt.ylabel("y")
+plt.xlabel("x")
+plt.title("Quadradic function")
+plt.plot(x_axis, y_axis)
+plt.show()
