@@ -29,3 +29,9 @@ def parallelogram_no_height(a, b):
 
 def trapezium(a, b, h):
     return (a+b)/2*h
+
+def kite(p, q):
+    return p*q/2
+
+def pentagon(a):
+    return (1/4)*(5*(5+2*5**0.5)**0.5)*a**2
