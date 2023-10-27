@@ -28,3 +28,9 @@ pythagoas.py finds any side using the other 2 sides of a triangle
 
 # find_side_with_angle.py
 find_side_with_angle.py finds any side using any other side and angle
+
+
+
+# Todo
+- Finish find_side_with_angle.py
+- find_angle_with_side.py
