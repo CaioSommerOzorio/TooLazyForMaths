@@ -22,3 +22,9 @@ area.py has multiple functions to calculate the area of several shapes
 
 # volume.py
 volume.py is is similar to area.py but for 3D shapes
+
+# pythagoras.py
+pythagoas.py finds any side using the other 2 sides of a triangle
+
+# trig_find_side_with_angle.py
+find_side_with_angle.py finds any side using any other side and angle
