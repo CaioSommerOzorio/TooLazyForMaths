@@ -12,3 +12,6 @@ linear_equation.py calculates y depending on what x is for multiple values.
 
 # quadradic_equation.py
 like linear_equation.py but quadradic
+
+# all_logs.py
+like quadradic_equation.py but a log function.
