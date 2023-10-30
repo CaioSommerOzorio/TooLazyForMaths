@@ -1,5 +1,3 @@
-import math
-
 #   │╲
 #   │y╲
 #   │  ╲ 
@@ -10,6 +8,8 @@ import math
 #   ├┐     x╲
 #   └┴───────┘
 #        b
+
+import math
 
 def find_x_ac(a, c):
     return math.degrees(math.asin(a/c))
