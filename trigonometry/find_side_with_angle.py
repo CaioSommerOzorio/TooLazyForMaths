@@ -11,6 +11,8 @@
 
 import math
 
+# returns length of a
+
 def find_a_xb(x, b):
     return b*math.tan(x)
 
@@ -21,46 +23,32 @@ def find_a_yb(y, b):
     return b/math.tan(y)
 
 def find_a_yc(y, c):
-    return c*math.tan(y)
+    return c*math.cos(y)
+
+# returns length of b
 
 def find_b_xa(x, a):
-    return 
+    return a/math.tan(x)
 
-def find_b_xc(x, a):
-    return
+def find_b_xc(x, c):
+    return c/math.cos(x)
 
 def find_b_ya(y, a):
-    return
+    return a*math.tan(y)
 
-def find_b_yc(y, a):
-    return
+def find_b_yc(y, c):
+    return c*math.sin(y)
+
+# returns length of c
 
 def find_c_xa(x, a):
-    return
+    return a/math.sin(x)
 
 def find_c_xb(x, b):
-    return
+    return b/math.cos(x)
 
 def find_c_ya(y, a):
-    return
+    return a/math.cos(y)
 
 def find_c_yb(y, b):
-    return
-
-def find_x_ab(a, b):
-    return
-
-def find_x_ac(a, b):
-    return
-
-def find_x_bc(b, c):
-    return
-
-def find_y_ab(a, b):
-    return
-
-def find_y_ac(a, b):
-    return
-
-def find_y_bc(b, c):
-    return
+    return b/math.sin(y)
