@@ -40,5 +40,4 @@ find_angle_with_sides.py finds any angle using 2 sides
 
 
 # Todo
-- Finish find_side_with_angle.py
-- find_angle_with_side.py
+- Open to suggestions
