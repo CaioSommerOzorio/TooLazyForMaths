@@ -1,6 +1,8 @@
 # TooLazyForMaths
 A bunch of python scripts that automate mathematical equations/functions
 
+# tlfm.py
+All functions in one file which can quickly be imported
 
 # Graphing
 
