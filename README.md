@@ -4,6 +4,11 @@ A bunch of python scripts that automate mathematical equations/functions
 # tlfm.py
 All functions in one file which can quickly be imported
 
+# General purpose
+
+prime_numbers.py
+prime_numbers.py returns a list of prime numbers within 0 and a given ceiling.
+
 # Graphing
 
 midpoint.py
