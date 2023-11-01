@@ -6,7 +6,7 @@ All functions in one file which can quickly be imported
 
 # General purpose
 
-prime_numbers.py
+prime_numbers.py\n
 prime_numbers.py returns a list of prime numbers within 0 and a given ceiling.
 
 # Graphing
