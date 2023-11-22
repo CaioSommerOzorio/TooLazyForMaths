@@ -17,7 +17,7 @@ def find_a_xb(x, b):
     return b*math.tan(x)
 
 def find_a_xc(x, c):
-    return c/math.sin(x)
+    return c*math.sin(x)
 
 def find_a_yb(y, b):
     return b/math.tan(y)
